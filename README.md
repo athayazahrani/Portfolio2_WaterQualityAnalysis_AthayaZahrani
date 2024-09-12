@@ -15,4 +15,6 @@ _The issue of heavy metal pollution in Indonesian waters, including Saguling Res
 
 Please make sure that you have the files named "Peta Titik Sampling.ipynb," "Air dan Parameter Pendukung.ipynb," and "Air, Sedimen, dan F1.ipynb" available in your directory for sequential checking. Enjoy reading and analyzing the data! If you encounter any issues or need further assistance with these files, feel free to ask!
 
+- Link Medium: https://medium.com/@zahrani170899/analisis-kualitas-air-sedimen-dan-fraksi-f1-di-waduk-saguling-berdasarkan-kandungan-logam-berat-69397a8b60f9
+
 Thank You - Athaya zahrani Irmansyah
