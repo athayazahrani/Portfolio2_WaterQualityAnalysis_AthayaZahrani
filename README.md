@@ -17,4 +17,4 @@ Please make sure that you have the files named "Peta Titik Sampling.ipynb," "Air
 
 - Link Medium: https://medium.com/@zahrani170899/analisis-kualitas-air-sedimen-dan-fraksi-f1-di-waduk-saguling-berdasarkan-kandungan-logam-berat-69397a8b60f9
 
-Thank You - Athaya zahrani Irmansyah
+Thank You - Athaya Zahrani Irmansyah
