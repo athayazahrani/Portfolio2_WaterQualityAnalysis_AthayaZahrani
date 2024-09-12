@@ -1,5 +1,5 @@
 # Portfolio2_WaterQualityAnalysis_AthayaZahrani
-**Analysis of Water, Sediment, and F1 Fraction Quality in Saguling Reservoir Based on Heavy Metal Content (Cd, Cr, Cu, Pb) for Water Pollution Control Purposes (in Bahasa)**
+**Analysis of Water, Sediment, and F1 Fraction Quality in Saguling Reservoir based on Heavy Metal Content (Cd, Cr, Cu, Pb) for Water Pollution Control Purposes (in Bahasa)**
 
 In Indonesia, pollution both on land and in water bodies frequently occurs, one of which is heavy metal pollution, which is crucial to consider due to its non-degradable and persistent nature, as well as its ability to accumulate in living organisms. Heavy metals in water are typically found in low concentrations, but human activities can increase their levels, causing environmental problems and impacting ecosystems. Once heavy metals enter water bodies, they accumulate and settle in the sediment, which can eventually be re-released into the water column, becoming secondary pollutants. Sediment plays a critical role in the trace and accumulation of heavy metals, which have the potential to cause toxicity to aquatic organisms.
 
